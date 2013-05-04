@@ -1,6 +1,6 @@
 package org.poker
 
-import +=util.Random
+import scala.util.Random
 
 object Deck {
 
